@@ -9,18 +9,13 @@
 >- Técnicas de Parcelamento Territorial Rural;
 >- Técnicas de Parcelamento do Solo Urbano.
 >- Levantamentos topográficos aplicados à divisão e à demarcação de terras.
+>- Processos de divisão de terras.
+>- Processos de demarcação de divisas. Peritagem.;
+>- Loteamento.
+>- Projeto geométrico de loteamento.
+>- Implantação de um loteamento.
 
-- Processos de divisão de terras.
-
-- Processos de demarcação de divisas. Peritagem.;
-
-- Loteamento.
-
-- Projeto geométrico de loteamento.
-
-- Implantação de um loteamento.
-
-**# Objetivos**
+# Objetivos
 
 Capacitar os alunos nos procedimentos legais e técnicos referentes a divisão e demarcação de terras;
 
@@ -30,7 +25,7 @@ Aplicar os métodos de levantamento topográfico e geodésico na divisão de ter
 
 Discutir casos de estudo de perícias judiciais.
 
-**# METODOLOGIA**
+# METODOLOGIA
 
 As atividades síncronas e assíncronas, desenvolvidas em ambiente virtual, remotamente. As síncronas, que totalizarão 33,3%, serão 12 atividades (2 horas/ aulas por semana) serão feitas remotamente, através de encontros virtuais previamente agendados, disponibilizados no siga, que serão feitos usando a ferramenta Google Meet. Nessas atividades síncronas o professor apresentará a parte teórica e esclarecerá sobre estudos e os trabalhos .
 
@@ -40,13 +35,13 @@ Aulas expositivas da parte teórica e detalhes práticos.
 
 Apresentação das técnicas de planejamento e implementação de um projeto de parcelamento.
 
-**# FORMAS DE AVALIAÇÃO**
+# FORMAS DE AVALIAÇÃO**
 
-**## 1º E.E.:**
+## 1º E.E.:**
 
 a. Atividades no Google Classroom a partir de Google Formulário sobre os Itens 1,3,4 e 5 da Ementa (Peso 4) b. Seminário em Grupo sobre Proposta de Parcelamento de uma propriedade Rural para fins de assentamento da reforma agrária baseado na legislação e no conteúdo Ministrado , analise individual no aluno na apresentação ( Peso 6);
 
-**## 2ºE.E.:**
+## 2ºE.E.:**
 
 a. Atividades no Google Classroom a partir de Google Formulário sobre os Itens 2,6,7 e 8 da Ementa (Peso 4) b. Seminário em Grupo sobre Proposta de Parcelamento de uma Gleba Urbana para fins de aprovação de um projeto de Loteamento baseado na legislação e no conteúdo ministrado , analise individual no aluno na apresentação ( Peso 6);
 
@@ -66,7 +61,7 @@ a. Atividades no Google Classroom a partir de Google Formulário sobre os Itens 
 
 **=======**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNjI2MzM4NiwtMjEwNTcwMjE3LC0xMT
-UwNzgyNDI4LC0xMzY1OTY0ODAwLC04Mzg2MjczNDcsLTkyMzEw
-OTQ4N119
+eyJoaXN0b3J5IjpbLTE3Nzc2MDY2OTQsLTIxMDU3MDIxNywtMT
+E1MDc4MjQyOCwtMTM2NTk2NDgwMCwtODM4NjI3MzQ3LC05MjMx
+MDk0ODddfQ==
 -->
