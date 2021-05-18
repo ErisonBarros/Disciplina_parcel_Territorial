@@ -1,19 +1,5 @@
 <![endif]-->
 
-**---**
-
-marp: false
-
-<!-- paginate: true -->
-
-<!-- backgroundColor: white-->
-
----
-
-  
-<![if !supportLineBreakNewLine]>  
-<![endif]>
-
 **# Parcelamento Territorial**
 
 >  **### Prof. Erison Rosa de Oliveira Barros**
@@ -81,14 +67,8 @@ a. Atividades no Google Classroom a partir de Google Formulário sobre os Itens 
 > Média= ( 1º E.E. + 2ºE.E.) /2
 
 **=======**
-
-**# ParcelamentoTerritorial**
-
-Material da Disciplina
-
->>>>>>> 2f4ab6b784dfbfcebd03360151406999ac43fa77
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk5NzI5Nzg3LC0yMTA1NzAyMTcsLTExNT
-A3ODI0MjgsLTEzNjU5NjQ4MDAsLTgzODYyNzM0NywtOTIzMTA5
-NDg3XX0=
+eyJoaXN0b3J5IjpbLTkwMTM2MjIyNiwtMjEwNTcwMjE3LC0xMT
+UwNzgyNDI4LC0xMzY1OTY0ODAwLC04Mzg2MjczNDcsLTkyMzEw
+OTQ4N119
 -->
