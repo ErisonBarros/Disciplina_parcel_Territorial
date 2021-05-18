@@ -21,14 +21,14 @@ Você pode renomear o arquivo atual clicando no nome do arquivo na barra de nave
 
 ## Excluir um arquivo
 
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
+Você pode excluir o arquivo atual clicando no botão ** Remover ** no explorador de arquivos. O arquivo será movido para o ** Lixo ** macarrão e automaticamente excluído 7 dias de inatividade.
 
-## Export a file
+## Exportar um arquivo
 
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+Você pode exportar o arquivo atual clicando em ** Exportar para disco ** no menu. Você pode apresentar por exportar o arquivo como Markdown simples, como HTML usando um modelo de barras de guia ou como um PDF.
 
 
-# Synchronization
+# Sincronização
 
 Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your **Google Drive**, your **Dropbox** and your **GitHub** accounts. This allows you to keep writing on other devices, collaborate with people you share the file with, integrate easily into your workflow... The synchronization mechanism takes place every minute in the background, downloading, merging, and uploading file modifications.
 
@@ -120,13 +120,13 @@ $$
 
 You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
 
-`` `
+` `  `
  seqüência de sereiaDiagrama 
 Alice - >> Bob: Olá Bob, como vai você? 
-Bob - >> John: E você John? 
+Bob - >> João: E você John? 
 Bob - x Alice: Estou bem, obrigado! 
 Bob-x John: Estou bem, obrigado! 
-Nota à direita de John: Bob pensa muito <br/> muito tempo, tanto <br/> que o texto <br/> não cabe em uma linha. Bob -> Alice: Checando com o John ... Alice-> John: Sim ... John, como você está? `` `
+Nota à direita de João: Bob pensa muito <br/> muito tempo, tanto <br/> que o texto <br/> não cabe em uma linha. Bob -> Alice: Checando com o João ... Alice-> João: Sim ... João, como você está? ` ` `
 
 
 
@@ -134,13 +134,13 @@ Nota à direita de John: Bob pensa muito <br/> muito tempo, tanto <br/> que o te
 
 E isso produzirá um fluxograma:
 
-`` `
- gráfico sereia LR 
-A [Retângulo Quadrado] - Texto do link -> B ((Círculo)) 
-A -> C (Retângulo Redondo) 
-B -> D {Rhombus} 
-C -> D` ``
+` `  `
+ Gráfico sereia LR 
+A [retângulo Quadrado] - Texto do elo -> B ((Círculo)) 
+A -> C (retângulo Redondo) 
+B -> D {Losango} 
+C -> D `  ` `
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMTY5NzI0MV19
+eyJoaXN0b3J5IjpbMTMzNjkwOTI1NF19
 -->
