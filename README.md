@@ -35,9 +35,9 @@ Aulas expositivas da parte teórica e detalhes práticos.
 
 Apresentação das técnicas de planejamento e implementação de um projeto de parcelamento.
 
-# FORMAS DE AVALIAÇÃO**
+# FORMAS DE AVALIAÇÃO
 
-## 1º E.E.:**
+## 1º E.E.:
 
 a. Atividades no Google Classroom a partir de Google Formulário sobre os Itens 1,3,4 e 5 da Ementa (Peso 4) b. Seminário em Grupo sobre Proposta de Parcelamento de uma propriedade Rural para fins de assentamento da reforma agrária baseado na legislação e no conteúdo Ministrado , analise individual no aluno na apresentação ( Peso 6);
 
@@ -80,7 +80,8 @@ ields.io/bower/v/editor.md.svg)
 ![](https://img.shields.io/bower/v/editor.md.svg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY5NzM4NjAyLDgxODA1NzAxNSwtMTk1OD
-k5ODQxMiwtMjEwNTcwMjE3LC0xMTUwNzgyNDI4LC0xMzY1OTY0
-ODAwLC04Mzg2MjczNDcsLTkyMzEwOTQ4N119
+eyJoaXN0b3J5IjpbMTYxNjM1NDQ3NCw5Njk3Mzg2MDIsODE4MD
+U3MDE1LC0xOTU4OTk4NDEyLC0yMTA1NzAyMTcsLTExNTA3ODI0
+MjgsLTEzNjU5NjQ4MDAsLTgzODYyNzM0NywtOTIzMTA5NDg3XX
+0=
 -->
