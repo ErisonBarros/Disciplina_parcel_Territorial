@@ -1,4 +1,4 @@
-<![endif]-->
+
 
 # Parcelamento Territorial
 
@@ -49,7 +49,7 @@ a. Atividades no Google Classroom a partir de Google Formulário sobre os Itens 
 
 > 2ºE.E.= a * (0,4) + b*(0,6)
 
-Média= ( 1º E.E. + 2ºE.E.) /2 1º E.E.:
+> #### Média= ( 1º E.E. + 2ºE.E.) /2 1º E.E.:
 
 a. Atividades no Google Classroom a partir de Google Formulário sobre os Itens 1,3,4 e 5 da Ementa (Peso 4) b. Seminário em Grupo sobre Proposta de Parcelamento de uma propriedade Rural para fins de assentamento da reforma agrária baseado na legislação e no conteúdo Ministrado , analise individual no aluno na apresentação ( Peso 6); 2ºE.E.: a. Atividades no Google Classroom a partir de Google Formulário sobre os Itens 2,6,7 e 8 da Ementa (Peso 4) b. Seminário em Grupo sobre Proposta de Parcelamento de uma Gleba Urbana para fins de aprovação de um projeto de Loteamento baseado na legislação e no conteúdo ministrado , analise individual no aluno na apresentação ( Peso 6);
 
@@ -59,9 +59,9 @@ a. Atividades no Google Classroom a partir de Google Formulário sobre os Itens 
 
 > Média= ( 1º E.E. + 2ºE.E.) /2
 
-**=======**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzc2MDY2OTQsLTIxMDU3MDIxNywtMT
+eyJoaXN0b3J5IjpbLTE5NTg5OTg0MTIsLTIxMDU3MDIxNywtMT
 E1MDc4MjQyOCwtMTM2NTk2NDgwMCwtODM4NjI3MzQ3LC05MjMx
 MDk0ODddfQ==
 -->
