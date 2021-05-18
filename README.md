@@ -59,9 +59,19 @@ a. Atividades no Google Classroom a partir de Google Formulário sobre os Itens 
 
 > Média= ( 1º E.E. + 2ºE.E.) /2
 
+---
+# Editor.md
+
+
+![](https://img.shields.io/github/stars/pandao/editor.md.svg)
+![](https://img.shields.io/github/forks/pandao/editor.md.svg)
+![](https://img.shields.io/github/tag/pandao/editor.md.svg)
+![](https://img.shields.io/github/release/pandao/editor.md.svg)
+![](https://img.shields.io/github/issues/pandao/editor.md.svg)
+![](https://img.shields.io/bower/v/editor.md.svg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE4MDU3MDE1LC0xOTU4OTk4NDEyLC0yMT
-A1NzAyMTcsLTExNTA3ODI0MjgsLTEzNjU5NjQ4MDAsLTgzODYy
-NzM0NywtOTIzMTA5NDg3XX0=
+eyJoaXN0b3J5IjpbNTQwMzQ2NTYsODE4MDU3MDE1LC0xOTU4OT
+k4NDEyLC0yMTA1NzAyMTcsLTExNTA3ODI0MjgsLTEzNjU5NjQ4
+MDAsLTgzODYyNzM0NywtOTIzMTA5NDg3XX0=
 -->
