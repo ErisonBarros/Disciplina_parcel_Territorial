@@ -1,59 +1,94 @@
-# Coordenação de Estágio.
+<![endif]-->
 
-1 Vaga de Estágio para a Impresa Insole 
-https://www.insole.com.br/
+**---**
 
-<img src="https://i.ibb.co/YpgnGHF/logo-footer.png" alt="logo-footer" border="0">
+marp: false
 
+<!-- paginate: true -->
 
-O Candidato deve ter como premissas:
+<!-- backgroundColor: white-->
 
-# Principais Desafios
-
- - Garantir a correta alimentação do sistema de gestão de dados
-   fundiários e dos projetos em desenvolvimento; 
- - Geoprocessamento como ferramenta de apoio ao desenvolvimento   
-   Fundiário e de áreas correlatas;
-  - Organização de arquivos físicos e digitais– Data Room;
+---
 
   
- - Agregar valor aos projetos e a equipe.
+<![if !supportLineBreakNewLine]>  
+<![endif]>
 
-# Principais Responsabilidades
+**# Parcelamento Territorial**
 
- - Seguir as rotinas de trabalho pré estabelecidas pelo Gestor
-   Fundiário;
- - Agregar novas ideias e abordagens na solução de problemas;
- - Garantir a integridade e atualização da base de dados;
- - Interagir com os demais setores da empresa auxiliando na troca de
-   arquivos e informações técnicas;
- - Pesquisa e integração de novas bases de dados da Web;
- - Auxílio nas rotinas de pagamentos e processos burocráticos internos;
+>  **### Prof. Erison Rosa de Oliveira Barros**
 
-# Conhecimentos, experiências e certificações requeridas
+**# Ementa da Disciplina**
 
- - Cursando Engenharia Cartográfica – a partir do 5° período;
- - Excel, ArcGIS, AutoCAD, Excel. Desejável conhecimento em Global
-   Mapper e QGIS;
- - Conhecimento no tema ambiental, fundiário ou energia renovável;
- - Proatividade, boa capacidade de comunicação e relacionamento
-   interdisciplinar, espírito de equipe e comprometimento com qualidade.
+Técnicas de Parcelamento Territorial Rural;
 
-# Proposta:
+Técnicas de Parcelamento do Solo Urbano.
 
-Início imediato
+Levantamentos topográficos aplicados à divisão e à demarcação de terras.
 
-Bolsa estágio de R$ 1.000,00 mensais.
+Processos de divisão de terras.
 
-Vale refeição ou alimentação
+Processos de demarcação de divisas. Peritagem.;
 
-Vale transporte
+Loteamento.
 
-Enviar e-mail com os currículos para leonardo.cavalcante@insiole.com.br / erison.barros@ufpe.br
+Projeto geométrico de loteamento.
 
+Implantação de um loteamento.
 
+**# Objetivos**
 
+Capacitar os alunos nos procedimentos legais e técnicos referentes a divisão e demarcação de terras;
+
+Capacitar os alunos para a elaboração de projetos de parcelamentos urbanos (desmembramentos e loteamentos) e rurais, de acordo com a legislação e normas técnicas vigentes;
+
+Aplicar os métodos de levantamento topográfico e geodésico na divisão de terras e locação de loteamentos.
+
+Discutir casos de estudo de perícias judiciais.
+
+**# METODOLOGIA**
+
+As atividades síncronas e assíncronas, desenvolvidas em ambiente virtual, remotamente. As síncronas, que totalizarão 33,3%, serão 12 atividades (2 horas/ aulas por semana) serão feitas remotamente, através de encontros virtuais previamente agendados, disponibilizados no siga, que serão feitos usando a ferramenta Google Meet. Nessas atividades síncronas o professor apresentará a parte teórica e esclarecerá sobre estudos e os trabalhos .
+
+Esses encontros síncronos também poderão ser utilizados para apresentação dos trabalhos dos estudantes utilizando o Meet. Nas atividades assíncronas, que totalizarão 66,6%, serão (4 horas/aulas por semana) os alunos deverão complementar estudos e resolver os trabalhos propostos nas aulas presenciais e previstos nos plano de trabalho. Essas atividades serão passadas através de sala de aula virtual, utilizando a ferramenta Google Classroom. Serão presenciados de forma online:
+
+Aulas expositivas da parte teórica e detalhes práticos.
+
+Apresentação das técnicas de planejamento e implementação de um projeto de parcelamento.
+
+**# FORMAS DE AVALIAÇÃO**
+
+**## 1º E.E.:**
+
+a. Atividades no Google Classroom a partir de Google Formulário sobre os Itens 1,3,4 e 5 da Ementa (Peso 4) b. Seminário em Grupo sobre Proposta de Parcelamento de uma propriedade Rural para fins de assentamento da reforma agrária baseado na legislação e no conteúdo Ministrado , analise individual no aluno na apresentação ( Peso 6);
+
+**## 2ºE.E.:**
+
+a. Atividades no Google Classroom a partir de Google Formulário sobre os Itens 2,6,7 e 8 da Ementa (Peso 4) b. Seminário em Grupo sobre Proposta de Parcelamento de uma Gleba Urbana para fins de aprovação de um projeto de Loteamento baseado na legislação e no conteúdo ministrado , analise individual no aluno na apresentação ( Peso 6);
+
+>1º E.E. = a * (0,4) + b*(0,6)
+
+> 2ºE.E.= a * (0,4) + b*(0,6)
+
+Média= ( 1º E.E. + 2ºE.E.) /2 1º E.E.:
+
+a. Atividades no Google Classroom a partir de Google Formulário sobre os Itens 1,3,4 e 5 da Ementa (Peso 4) b. Seminário em Grupo sobre Proposta de Parcelamento de uma propriedade Rural para fins de assentamento da reforma agrária baseado na legislação e no conteúdo Ministrado , analise individual no aluno na apresentação ( Peso 6); 2ºE.E.: a. Atividades no Google Classroom a partir de Google Formulário sobre os Itens 2,6,7 e 8 da Ementa (Peso 4) b. Seminário em Grupo sobre Proposta de Parcelamento de uma Gleba Urbana para fins de aprovação de um projeto de Loteamento baseado na legislação e no conteúdo ministrado , analise individual no aluno na apresentação ( Peso 6);
+
+> 1º E.E. = a * (0,4) + b*(0,6)
+
+> 2ºE.E.= a * (0,4) + b*(0,6)
+
+> Média= ( 1º E.E. + 2ºE.E.) /2
+
+**=======**
+
+**# ParcelamentoTerritorial**
+
+Material da Disciplina
+
+>>>>>>> 2f4ab6b784dfbfcebd03360151406999ac43fa77
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDU3MDIxNywtMTE1MDc4MjQyOCwtMT
-M2NTk2NDgwMCwtODM4NjI3MzQ3LC05MjMxMDk0ODddfQ==
+eyJoaXN0b3J5IjpbMjk5NzI5Nzg3LC0yMTA1NzAyMTcsLTExNT
+A3ODI0MjgsLTEzNjU5NjQ4MDAsLTgzODYyNzM0NywtOTIzMTA5
+NDg3XX0=
 -->
