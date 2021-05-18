@@ -60,7 +60,16 @@ a. Atividades no Google Classroom a partir de Google Formulário sobre os Itens 
 > Média= ( 1º E.E. + 2ºE.E.) /2
 
 ---
-# Editor.md
+
+ields.io/bower/v/editor.md.svg)
+
+# Tecnologias
+
+![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg)
@@ -71,7 +80,7 @@ a. Atividades no Google Classroom a partir de Google Formulário sobre os Itens 
 ![](https://img.shields.io/bower/v/editor.md.svg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQwMzQ2NTYsODE4MDU3MDE1LC0xOTU4OT
-k4NDEyLC0yMTA1NzAyMTcsLTExNTA3ODI0MjgsLTEzNjU5NjQ4
-MDAsLTgzODYyNzM0NywtOTIzMTA5NDg3XX0=
+eyJoaXN0b3J5IjpbOTY5NzM4NjAyLDgxODA1NzAxNSwtMTk1OD
+k5ODQxMiwtMjEwNTcwMjE3LC0xMTUwNzgyNDI4LC0xMzY1OTY0
+ODAwLC04Mzg2MjczNDcsLTkyMzEwOTQ4N119
 -->
