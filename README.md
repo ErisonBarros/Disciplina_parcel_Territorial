@@ -2,7 +2,7 @@
 
 # Parcelamento Territorial
 
->  ### Prof. Erison Rosa de Oliveira Barros**
+>  Prof. Erison Rosa de Oliveira Barros
 
 # Ementa da Disciplina
 
@@ -61,7 +61,7 @@ a. Atividades no Google Classroom a partir de Google Formulário sobre os Itens 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTg5OTg0MTIsLTIxMDU3MDIxNywtMT
-E1MDc4MjQyOCwtMTM2NTk2NDgwMCwtODM4NjI3MzQ3LC05MjMx
-MDk0ODddfQ==
+eyJoaXN0b3J5IjpbODE4MDU3MDE1LC0xOTU4OTk4NDEyLC0yMT
+A1NzAyMTcsLTExNTA3ODI0MjgsLTEzNjU5NjQ4MDAsLTgzODYy
+NzM0NywtOTIzMTA5NDg3XX0=
 -->
