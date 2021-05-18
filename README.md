@@ -1,26 +1,24 @@
 <![endif]-->
 
-**# Parcelamento Territorial**
+# Parcelamento Territorial
 
->  **### Prof. Erison Rosa de Oliveira Barros**
+>  ### Prof. Erison Rosa de Oliveira Barros**
 
-**# Ementa da Disciplina**
+# Ementa da Disciplina
 
-Técnicas de Parcelamento Territorial Rural;
+>- Técnicas de Parcelamento Territorial Rural;
+>- Técnicas de Parcelamento do Solo Urbano.
+>- Levantamentos topográficos aplicados à divisão e à demarcação de terras.
 
-Técnicas de Parcelamento do Solo Urbano.
+- Processos de divisão de terras.
 
-Levantamentos topográficos aplicados à divisão e à demarcação de terras.
+- Processos de demarcação de divisas. Peritagem.;
 
-Processos de divisão de terras.
+- Loteamento.
 
-Processos de demarcação de divisas. Peritagem.;
+- Projeto geométrico de loteamento.
 
-Loteamento.
-
-Projeto geométrico de loteamento.
-
-Implantação de um loteamento.
+- Implantação de um loteamento.
 
 **# Objetivos**
 
@@ -68,7 +66,7 @@ a. Atividades no Google Classroom a partir de Google Formulário sobre os Itens 
 
 **=======**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMTM2MjIyNiwtMjEwNTcwMjE3LC0xMT
+eyJoaXN0b3J5IjpbMjEyNjI2MzM4NiwtMjEwNTcwMjE3LC0xMT
 UwNzgyNDI4LC0xMzY1OTY0ODAwLC04Mzg2MjczNDcsLTkyMzEw
 OTQ4N119
 -->
