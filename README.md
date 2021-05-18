@@ -41,7 +41,7 @@ Apresentação das técnicas de planejamento e implementação de um projeto de 
 
 a. Atividades no Google Classroom a partir de Google Formulário sobre os Itens 1,3,4 e 5 da Ementa (Peso 4) b. Seminário em Grupo sobre Proposta de Parcelamento de uma propriedade Rural para fins de assentamento da reforma agrária baseado na legislação e no conteúdo Ministrado , analise individual no aluno na apresentação ( Peso 6);
 
-## 2ºE.E.:**
+## 2ºE.E.:
 
 a. Atividades no Google Classroom a partir de Google Formulário sobre os Itens 2,6,7 e 8 da Ementa (Peso 4) b. Seminário em Grupo sobre Proposta de Parcelamento de uma Gleba Urbana para fins de aprovação de um projeto de Loteamento baseado na legislação e no conteúdo ministrado , analise individual no aluno na apresentação ( Peso 6);
 
@@ -61,7 +61,7 @@ a. Atividades no Google Classroom a partir de Google Formulário sobre os Itens 
 
 ---
 
-ields.io/bower/v/editor.md.svg)
+
 
 # Tecnologias
 
@@ -80,7 +80,7 @@ ields.io/bower/v/editor.md.svg)
 ![](https://img.shields.io/bower/v/editor.md.svg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNjM1NDQ3NCw5Njk3Mzg2MDIsODE4MD
+eyJoaXN0b3J5IjpbMTYwNTc2NjgzNiw5Njk3Mzg2MDIsODE4MD
 U3MDE1LC0xOTU4OTk4NDEyLC0yMTA1NzAyMTcsLTExNTA3ODI0
 MjgsLTEzNjU5NjQ4MDAsLTgzODYyNzM0NywtOTIzMTA5NDg3XX
 0=
