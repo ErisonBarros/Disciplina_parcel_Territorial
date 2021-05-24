@@ -2,7 +2,7 @@
 Material da Disciplina
 [Aula 01 - Parte 1](https://docs.google.com/presentation/d/12kmTrs8Mu1dlgLxVyWRaIPhOCV7CW0DygYH7uLYD5pM/edit?usp=sharing)
 
-Aula 01 - Parte 2
+[Aula 01 - Parte 2](https://github.com/ErisonBarros/Parc._Territorial/blob/master/Demarca%C3%A7%C3%A3o_Divis%C3%A3o.pdf)
 
 [Aula 02](https://docs.google.com/presentation/d/1o-F93Hwo8k2yhfSasJiTWf3u0HmzypqZapsOWycR7_U/edit?usp=sharing)
 
@@ -10,7 +10,7 @@ Aula 01 - Parte 2
 
 [Aula 04](https://drive.google.com/file/d/1ka9OSjBMIiHPyImpLnm3iN2s-NXece0P/view)
 
-aULA
+
 
 ## Leitura Complementar
 
@@ -20,7 +20,10 @@ aULA
 
 >[TERRAS E BENFEITORIAS.](https://github.com/ErisonBarros/Parc._Territorial/blob/master/Cap%C3%ADtulo%208%20-%20Terras%20e%20Benfeitorias.pdf)
 
+MANUAL 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjEyNTcwMTksLTkzMDU0MjIyMSwxMT
-I1OTI2MDAxLDEwNTk0NDU3MDUsLTQ2ODM1NTc0N119
+eyJoaXN0b3J5IjpbMTY4MTY0Nzg0OCwtMTEyMTI1NzAxOSwtOT
+MwNTQyMjIxLDExMjU5MjYwMDEsMTA1OTQ0NTcwNSwtNDY4MzU1
+NzQ3XX0=
 -->
