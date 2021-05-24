@@ -1,5 +1,8 @@
 #[Aulas Síncronas](https://classroom.google.com/c/MzQwNDI3MjQ1Mzk3/m/MzQwNDI3MjQ1NDIx/details)
+
+
 Material da Disciplina
+
 [Aula 01 - Parte 1](https://docs.google.com/presentation/d/12kmTrs8Mu1dlgLxVyWRaIPhOCV7CW0DygYH7uLYD5pM/edit?usp=sharing)
 
 [Aula 01 - Parte 2](https://github.com/ErisonBarros/Parc._Territorial/blob/master/Demarca%C3%A7%C3%A3o_Divis%C3%A3o.pdf)
@@ -24,7 +27,7 @@ Material da Disciplina
 
 > [PROJETO DE LOTEAMENTO](https://github.com/ErisonBarros/Parc._Territorial/blob/master/Projeto_loteamento.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NzkxMDE0MCwxNTM0OTQ4NzEzLC0xMT
-IxMjU3MDE5LC05MzA1NDIyMjEsMTEyNTkyNjAwMSwxMDU5NDQ1
-NzA1LC00NjgzNTU3NDddfQ==
+eyJoaXN0b3J5IjpbNDM0NjYxMDcwLC0zNTc5MTAxNDAsMTUzND
+k0ODcxMywtMTEyMTI1NzAxOSwtOTMwNTQyMjIxLDExMjU5MjYw
+MDEsMTA1OTQ0NTcwNSwtNDY4MzU1NzQ3XX0=
 -->
