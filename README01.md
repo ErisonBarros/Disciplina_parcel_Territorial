@@ -18,19 +18,19 @@ Material da Disciplina
 
 ## Leitura Complementar
 
->[CUSTO ESTIMADO PARA PROJETOS HIPOTÉTICOS DE URBANIZAÇÃO E INFRAESTRUTURA BÁSICA DE LOTEAMENTOS PARA AVALIAÇÃO DE GLEBAS URBANAS ATRAVÉS DO MÉTODO INVOLUTIVO](https://ibape-nacional.com.br/biblioteca/wp-content/uploads/2017/08/047.pdf)
+* [CUSTO ESTIMADO PARA PROJETOS HIPOTÉTICOS DE URBANIZAÇÃO E INFRAESTRUTURA BÁSICA DE LOTEAMENTOS PARA AVALIAÇÃO DE GLEBAS URBANAS ATRAVÉS DO MÉTODO INVOLUTIVO](https://ibape-nacional.com.br/biblioteca/wp-content/uploads/2017/08/047.pdf)
 
->[DIVISÃO E DEMARCAÇÃO](https://github.com/ErisonBarros/Parc._Territorial/blob/master/Cap%C3%ADtulo%20I%20-%20Divis%C3%A3o%20e%20Demarca%C3%A7%C3%A3o.pdf)
+* [DIVISÃO E DEMARCAÇÃO](https://github.com/ErisonBarros/Parc._Territorial/blob/master/Cap%C3%ADtulo%20I%20-%20Divis%C3%A3o%20e%20Demarca%C3%A7%C3%A3o.pdf)
 
->[TERRAS E BENFEITORIAS.](https://github.com/ErisonBarros/Parc._Territorial/blob/master/Cap%C3%ADtulo%208%20-%20Terras%20e%20Benfeitorias.pdf)
+* [TERRAS E BENFEITORIAS.](https://github.com/ErisonBarros/Parc._Territorial/blob/master/Cap%C3%ADtulo%208%20-%20Terras%20e%20Benfeitorias.pdf)
 
-> [MANUAL DE OBTEÇÃO DO INCRA](https://github.com/ErisonBarros/Parc._Territorial/blob/master/manual_de_obtencao_INCRA.pdf)
+*  [MANUAL DE OBTEÇÃO DO INCRA](https://github.com/ErisonBarros/Parc._Territorial/blob/master/manual_de_obtencao_INCRA.pdf)
 
-> [PROJETO DE LOTEAMENTO](https://github.com/ErisonBarros/Parc._Territorial/blob/master/Projeto_loteamento.pdf)
+* [PROJETO DE LOTEAMENTO](https://github.com/ErisonBarros/Parc._Territorial/blob/master/Projeto_loteamento.pdf)
 
-QGIS Divisão de Polígonos  em Partes Iguais
+*  [QGIS Divisão de Polígonos  em Partes Iguais](https://github.com/ErisonBarros/Parc._Territorial/blob/master/QGIS_%20Divis%C3%A3o%20de%20um%20Pol%C3%ADgono%20em%20Partes%20Iguais.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMwNjM4ODIwLC0zNTc5MTAxNDAsMTUzND
-k0ODcxMywtMTEyMTI1NzAxOSwtOTMwNTQyMjIxLDExMjU5MjYw
-MDEsMTA1OTQ0NTcwNSwtNDY4MzU1NzQ3XX0=
+eyJoaXN0b3J5IjpbLTE2Nzk2NjUzNDQsLTM1NzkxMDE0MCwxNT
+M0OTQ4NzEzLC0xMTIxMjU3MDE5LC05MzA1NDIyMjEsMTEyNTky
+NjAwMSwxMDU5NDQ1NzA1LC00NjgzNTU3NDddfQ==
 -->
