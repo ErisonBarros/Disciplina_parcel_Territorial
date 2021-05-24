@@ -29,13 +29,13 @@ Material da Disciplina
 * [PROJETO DE LOTEAMENTO](https://github.com/ErisonBarros/Parc._Territorial/blob/master/Projeto_loteamento.pdf)
 
 *  [QGIS Divisão de Polígonos  em Partes Iguais](https://github.com/ErisonBarros/Parc._Territorial/blob/master/QGIS_%20Divis%C3%A3o%20de%20um%20Pol%C3%ADgono%20em%20Partes%20Iguais.pdf)
-* LOTEAMENTOS IRREGULARES E CLANDESTINOS 
+* [LOTEAMENTOS IRREGULARES E CLANDESTINOS](https://github.com/ErisonBarros/Parc._Territorial/blob/master/Loteamentos%20irregulares%20e%20Clandestinos.md) 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NDM0ODU2MiwtMTY3OTY2NTM0NCwtMz
-U3OTEwMTQwLDE1MzQ5NDg3MTMsLTExMjEyNTcwMTksLTkzMDU0
-MjIyMSwxMTI1OTI2MDAxLDEwNTk0NDU3MDUsLTQ2ODM1NTc0N1
-19
+eyJoaXN0b3J5IjpbLTIxNDY3ODg4MzEsLTE2Nzk2NjUzNDQsLT
+M1NzkxMDE0MCwxNTM0OTQ4NzEzLC0xMTIxMjU3MDE5LC05MzA1
+NDIyMjEsMTEyNTkyNjAwMSwxMDU5NDQ1NzA1LC00NjgzNTU3ND
+ddfQ==
 -->
