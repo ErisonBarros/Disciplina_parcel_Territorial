@@ -18,7 +18,19 @@ jurídica da posse e propriedade, muito menos oferecem serviços públicos adequ
 
 ## 2. REGULARIZAÇÃO FUNDIÁRIA
 
+	
+Denomina-se regularização fundiária o processo de verificação da situação da  propriedade e posse de áreas urbanas ou rurais, públicas ou privadas que se formaram  em desacordo com as normas legais que regulam a matéria. Pressupõe, portanto, uma  utilização do território em condições que trazem dúvidas sobre os direitos de  propriedade e posse do local.
 
+Segundo Betânia Alfonsin2, é o processo de intervenção pública, sob os aspectos  jurídico, físico e social, que objetiva legalizar a permanência de populações moradoras 
+de áreas urbanas ocupadas em desconformidade com a lei para fins de habitação,  
+implicando melhorias no ambiente urbano do assentamento, no resgate da cidadania e  
+da qualidade de vida da população beneficiária.
+
+O que se busca com a regularização fundiária é, sem dúvida, transformar a  
+irregularidade na ocupação do solo em domínio e posse legítimas, a fim de cumprirem  
+sua função social, como preconiza a Constituição Brasileira. Neste processo, o grande  
+desafio dos agentes públicos é fazer este trabalho de forma a evidenciar a  
+permanência das populações moradores naquele espaço, evitando o reassentamento
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzE0NTczOTNdfQ==
+eyJoaXN0b3J5IjpbLTc5MjkwNTVdfQ==
 -->
