@@ -125,8 +125,19 @@ lote como terreno servido de infra-estrutura básica cujas dimensões atendam ao
 são os equipamentos urbanos de escoamento das águas pluviais, redes de esgoto sanitário e abastecimento de água potável, energia elétrica pública e domiciliar e vias  
 de circulação.  Quando o loteamento não atende aos preceitos legais, torna-se irregular ou  clandestino:
 
+**a) irregular:** é aquele que possui algum tipo de registro no Município. O  
+responsável pode ter dado entrada com a documentação, mas não chegou a aprovar o  
+projeto. Também é considerado irregular o loteamento que tem projeto aprovado, mas  
+o loteador deixou de atender as outras etapas previstas na Lei Federal n. 6.766/79,  
+como a realização das obras de infra-estrutura ou registro do loteamento no cartório de  
+imóveis;
 
+**b) clandestino:** é aquele realizado sem nenhum tipo de projeto ou  
+intervenção pública, ou seja, nenhuma norma é respeitada.  
+Feita a distinção, começaremos agora a tratar especificamente dos loteamentos  
+irregulares e clandestinos e como o Município de Porto Alegre trabalha a sua  
+regularização.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTI5MTAwOTFdfQ==
+eyJoaXN0b3J5IjpbLTEzOTE2MzIzOTddfQ==
 -->
