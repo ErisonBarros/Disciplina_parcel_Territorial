@@ -151,7 +151,6 @@ avaliadas pelo Município;
 ideal de terras públicas ou privadas em núcleos urbanos
 informais.
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDM2NjY3NCwtMTM5MTYzMjM5N119
+eyJoaXN0b3J5IjpbMjAxNzg3ODUyOCwtMTM5MTYzMjM5N119
 -->
