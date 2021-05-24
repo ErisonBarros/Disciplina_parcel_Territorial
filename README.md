@@ -60,7 +60,7 @@ a. Atividades no Google Classroom a partir de Google Formulário sobre os Itens 
 > Média= ( 1º E.E. + 2ºE.E.) /2
 
 ---
-
+* pAG
 
 
 # Tecnologias
@@ -80,8 +80,8 @@ a. Atividades no Google Classroom a partir de Google Formulário sobre os Itens 
 ![](https://img.shields.io/bower/v/editor.md.svg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNTc2NjgzNiw5Njk3Mzg2MDIsODE4MD
-U3MDE1LC0xOTU4OTk4NDEyLC0yMTA1NzAyMTcsLTExNTA3ODI0
-MjgsLTEzNjU5NjQ4MDAsLTgzODYyNzM0NywtOTIzMTA5NDg3XX
-0=
+eyJoaXN0b3J5IjpbLTIwNjEwOTQyMjgsMTYwNTc2NjgzNiw5Nj
+k3Mzg2MDIsODE4MDU3MDE1LC0xOTU4OTk4NDEyLC0yMTA1NzAy
+MTcsLTExNTA3ODI0MjgsLTEzNjU5NjQ4MDAsLTgzODYyNzM0Ny
+wtOTIzMTA5NDg3XX0=
 -->
