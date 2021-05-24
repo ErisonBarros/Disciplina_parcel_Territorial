@@ -22,8 +22,9 @@ Material da Disciplina
 
 > [MANUAL DE OBTEÇÃO DO INCRA](https://github.com/ErisonBarros/Parc._Territorial/blob/master/manual_de_obtencao_INCRA.pdf)
 
+> [PROJETO DE LOTEAMENTO](https://github.com/ErisonBarros/Parc._Territorial/blob/master/Projeto_loteamento.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNDk0ODcxMywtMTEyMTI1NzAxOSwtOT
-MwNTQyMjIxLDExMjU5MjYwMDEsMTA1OTQ0NTcwNSwtNDY4MzU1
-NzQ3XX0=
+eyJoaXN0b3J5IjpbLTM1NzkxMDE0MCwxNTM0OTQ4NzEzLC0xMT
+IxMjU3MDE5LC05MzA1NDIyMjEsMTEyNTkyNjAwMSwxMDU5NDQ1
+NzA1LC00NjgzNTU3NDddfQ==
 -->
