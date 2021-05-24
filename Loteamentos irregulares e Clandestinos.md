@@ -165,8 +165,11 @@ informais.
 
 Referencia Bibliográfica:
 
+LEILA, P. et al. Loteamentos irregulares e clandestinos: sua regularização no município de porto alegre. p. 1–10, [s.d.]. 
+
+Modulo 1 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDY1Njg1MTgsLTYzNzA4MDIzOCwyMD
-E3ODc4NTI4LC0xMzkxNjMyMzk3XX0=
+eyJoaXN0b3J5IjpbMTQwNTI4NzY4LC0xMzQ2NTY4NTE4LC02Mz
+cwODAyMzgsMjAxNzg3ODUyOCwtMTM5MTYzMjM5N119
 -->
