@@ -6,8 +6,12 @@ Material da Disciplina
 
 [Aula 03](https://docs.google.com/presentation/d/1uehrD5WQyrBL8dE0m0tZQNo98DrxanIEXOxGFB286LY/edit?usp=sharing)
 
+## Leitura Complementar
+
+[CUSTO ESTIMADO PARA PROJETOS HIPOTÉTICOS DE URBANIZAÇÃO E INFRAESTRUTURA BÁSICA DE LOTEAMENTOS PARA AVALIAÇÃO DE GLEBAS URBANAS ATRAVÉS DO MÉTODO INVOLUTIVO](https://ibape-nacional.com.br/biblioteca/wp-content/uploads/2017/08/047.pdf)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg0NjEwMDMwLDExMjU5MjYwMDEsMTA1OT
+eyJoaXN0b3J5IjpbMTQwNzQ0MDAxLDExMjU5MjYwMDEsMTA1OT
 Q0NTcwNSwtNDY4MzU1NzQ3XX0=
 -->
