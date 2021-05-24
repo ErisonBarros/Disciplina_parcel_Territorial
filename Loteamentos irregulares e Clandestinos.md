@@ -30,7 +30,46 @@ O que se busca com a regularização fundiária é, sem dúvida, transformar a
 irregularidade na ocupação do solo em domínio e posse legítimas, a fim de cumprirem  
 sua função social, como preconiza a Constituição Brasileira. Neste processo, o grande  
 desafio dos agentes públicos é fazer este trabalho de forma a evidenciar a  
-permanência das populações moradores naquele espaço, evitando o reassentamento
+permanência das populações moradores naquele espaço, evitando o reassentamento 
+Nesse contexto, foram propostos novos instrumentos legislativos, jurídicos e  
+urbanísticos com o escopo de contribuir para a formulação de uma nova política de uso  
+racional e socialmente adequada do solo urbano. O envolvimento do ente municipal  
+nestas questões, com objetivo de minimizar os problemas decorrentes da  
+irregularidade fundiária certamente é uma estratégia inteligente de gestão dirigida para  
+disponibilizar moradia de qualidade e com infra-estrutura adequada aos munícipes,  
+pois ao resgatar a segurança jurídica da posse e da propriedade trará aos cidadãos  
+benefícios em diversos setores, iniciando pelo acesso digno às redes de água, luz e  
+esgotamento sanitário, passando pela presença de serviços públicos, tais como  
+escolas e postos de saúde, até chegar ao acesso facilitado ao transporte público.
+
+Não é fácil trabalhar a irregularidade fundiária. Cada ocupação consolida-se de  
+uma forma e por isso possui características próprias. Em cada caso é necessário  
+verificar sua origem (assentamento autoproduzido, invasão, loteamento irregular ou  
+clandestino, etc.) e quais os desdobramentos urbanísticos e jurídicos ocorreram  
+durante e após sua formatação. omo se vê, a regularização fundiária se dá em duas dimensões: urbanística e  jurídica. Faticamente até se poderia trabalhar somente um dos aspectos. Entretanto, a  história já nos mostrou que os resultados somente serão positivos quando as duas  dimensões são avaliadas e trabalhadas.
+
+## 2.1. Dimensão urbanística
+
+A esfera urbanística trabalha as etapas que precedem a regularização jurídica e  
+registrária da gleba. O objetivo desta etapa é a formatação de um programa de  
+urbanização que prevê a aprovação de projetos nos órgãos públicos, implementação  
+de infra-estrutura e prestação de serviços públicos.  
+Tudo começa com a realização de um levantamento topográfico-cadastral da área  
+demonstrando como se deu o parcelamento do solo. Após, é necessário elaborar um  
+estudo de viabilidade urbanística ou projeto urbanístico baseado nesse levantamento,  
+redefinindo os usos e padrões de ocupação previstos na legislação e adequando-os à  
+realidade atual.  
+É nesta etapa que se encontram as maiores dificuldades do trabalho de  
+regularização fundiária. Neste momento é que aparecem os condicionantes  
+urbanísticos e ambientais não respeitados pela ocupação, como, por exemplo, a  
+existência de moradia em faixas não edificáveis sobre redes de esgoto, de preservação  
+ambiental marginal de arroio ou nascente, incidência de diretriz de abertura viária, etc..  
+Neste âmbito, importante destacar os instrumentos urbanísticos alcançados pelo  
+Estatuto da Cidade, tais como o zoneamento urbano e ambiental, definição de planos  
+de regularização fundiária, parcelamento compulsório, e, principalmente, a instituição  
+de zonas especiais de interesse social. Sem estes instrumentos não é possível obter a  
+regularização.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MjkwNTVdfQ==
+eyJoaXN0b3J5IjpbMTE1NTIxNjk3M119
 -->
