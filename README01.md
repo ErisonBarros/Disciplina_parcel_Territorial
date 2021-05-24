@@ -13,6 +13,7 @@ Material da Disciplina
 
 [Aula 04](https://drive.google.com/file/d/1ka9OSjBMIiHPyImpLnm3iN2s-NXece0P/view)
 
+[Aula 05](https://1drv.ms/p/s!AjO4oAHV5BZuhct-QpVAOX23kvfWHQ?e=M0dxAR)
 
 
 ## Leitura Complementar
@@ -27,7 +28,7 @@ Material da Disciplina
 
 > [PROJETO DE LOTEAMENTO](https://github.com/ErisonBarros/Parc._Territorial/blob/master/Projeto_loteamento.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM0NjYxMDcwLC0zNTc5MTAxNDAsMTUzND
+eyJoaXN0b3J5IjpbMTI4MTUxNTA5LC0zNTc5MTAxNDAsMTUzND
 k0ODcxMywtMTEyMTI1NzAxOSwtOTMwNTQyMjIxLDExMjU5MjYw
 MDEsMTA1OTQ0NTcwNSwtNDY4MzU1NzQ3XX0=
 -->
