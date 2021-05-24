@@ -1,5 +1,5 @@
-# labat
+#Aulas Síncronas
 Material da Disciplina
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2ODM1NTc0N119
+eyJoaXN0b3J5IjpbMTA1OTQ0NTcwNSwtNDY4MzU1NzQ3XX0=
 -->
