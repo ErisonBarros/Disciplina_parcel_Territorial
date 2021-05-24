@@ -1,5 +1,5 @@
 > Written with [StackEdit](https://stackedit.io/).
-<a href="https://ibb.co/7vhz6BS"><img src="https://i.ibb.co/qB6nPhD/D4o-Vm-TKhc-Xqql8-Juk-Uoc-Qv-Ph9-Elwcnff-Nniv-Rjk76-ICS5h1d-Qdmr-YQrmef-Eem-BVgw7o-w1200-h630-p.png" alt="D4o-Vm-TKhc-Xqql8-Juk-Uoc-Qv-Ph9-Elwcnff-Nniv-Rjk76-ICS5h1d-Qdmr-YQrmef-Eem-BVgw7o-w1200-h630-p" border="0"></a>
+
 > # LOTEAMENTOS IRREGULARES E CLANDESTINOS:  
 ## 1. INTRODUÇÃO
 A questão habitacional exige um cuidado apurado da Administração Pública. A  
@@ -152,7 +152,8 @@ avaliadas pelo Município;
 ideal de terras públicas ou privadas em núcleos urbanos
 informais.
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI1NDk1MjA0LDIwMTc4Nzg1MjgsLTEzOT
-E2MzIzOTddfQ==
+eyJoaXN0b3J5IjpbMTc4NDUzMDE0MCwyMDE3ODc4NTI4LC0xMz
+kxNjMyMzk3XX0=
 -->
