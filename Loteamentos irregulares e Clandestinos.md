@@ -167,14 +167,11 @@ Referencia Bibliográfica:
 
 LEILA, P. et al. Loteamentos irregulares e clandestinos: sua regularização no município de porto alegre. p. 1–10, [s.d.]. 
 
-Modulo 1 - PROGRAMA MORADIA LEGAL 
-CURSO DE EXTENSÃO
-UNIVERSITÁRIA EM
-
-REGULARIZAÇÃO FUNDIÁRIA
+Modulo 1 - PROGRAMA MORADIA LEGAL CURSO DE EXTENSÃO
+UNIVERSITÁRIA EM  REGULARIZAÇÃO FUNDIÁRIA
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjkyMzEwMjcsMTQwNTI4NzY4LC0xMz
-Q2NTY4NTE4LC02MzcwODAyMzgsMjAxNzg3ODUyOCwtMTM5MTYz
-MjM5N119
+eyJoaXN0b3J5IjpbMjExOTE2OTAxOSwxNDA1Mjg3NjgsLTEzND
+Y1Njg1MTgsLTYzNzA4MDIzOCwyMDE3ODc4NTI4LC0xMzkxNjMy
+Mzk3XX0=
 -->
