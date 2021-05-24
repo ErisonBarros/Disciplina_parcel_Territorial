@@ -140,16 +140,18 @@ regularização.
 
 ## O que é Regularização Fundiária?
 
+### CONCEITOS (art.11):
 **1)núcleo urbano informal consolidado (NUIC):** aquele de difícil
 reversão, considerados o tempo da ocupação, a natureza das
 edificações, a localização das vias de circulação e a presença
 de equipamentos públicos, entre outras circunstâncias a serem
 avaliadas pelo Município;
 
-2)ocupante: aquele que mantém poder de fato sobre lote ou fração
+**2)ocupante:** aquele que mantém poder de fato sobre lote ou fração
 ideal de terras públicas ou privadas em núcleos urbanos
 informais.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTI4MjUwNzIsLTEzOTE2MzIzOTddfQ
-==
+eyJoaXN0b3J5IjpbLTExMDM2NjY3NCwtMTM5MTYzMjM5N119
 -->
