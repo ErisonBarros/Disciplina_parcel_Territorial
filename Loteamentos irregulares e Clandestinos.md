@@ -152,8 +152,15 @@ avaliadas pelo Município;
 ideal de terras públicas ou privadas em núcleos urbanos
 informais.
 
+<a href="https://ibb.co/RbMySSf"><img src="https://i.ibb.co/KhQwGGd/NUIC.jpg" alt="NUIC" border="0"></a><br /><a target='_blank' href='https://geojsonlint.com/'>json checker google</a><br />
 
+
+
+<a href="https://ibb.co/JpLBcyf"><img src="https://i.ibb.co/R6nvgBx/TIPOS.jpg" alt="TIPOS" border="0"></a><br /><a target='_blank' href='https://geojsonlint.com/'>mysql validator</a><br />
+
+
+<a href="https://ibb.co/yf0Pcd1"><img src="https://i.ibb.co/YR2QFPM/REUB.jpg" alt="REUB" border="0"></a><br /><a target='_blank' href='https://geojsonlint.com/'>json checker google</a><br />
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NDUzMDE0MCwyMDE3ODc4NTI4LC0xMz
+eyJoaXN0b3J5IjpbLTYzNzA4MDIzOCwyMDE3ODc4NTI4LC0xMz
 kxNjMyMzk3XX0=
 -->
