@@ -1,6 +1,8 @@
 #[Aulas Síncronas](https://classroom.google.com/c/MzQwNDI3MjQ1Mzk3/m/MzQwNDI3MjQ1NDIx/details)
 Material da Disciplina
-[Aula 01](https://docs.google.com/presentation/d/12kmTrs8Mu1dlgLxVyWRaIPhOCV7CW0DygYH7uLYD5pM/edit?usp=sharing)
+[Aula 01 - Parte 1](https://docs.google.com/presentation/d/12kmTrs8Mu1dlgLxVyWRaIPhOCV7CW0DygYH7uLYD5pM/edit?usp=sharing)
+
+Aula 01 - Parte 2
 
 [Aula 02](https://docs.google.com/presentation/d/1o-F93Hwo8k2yhfSasJiTWf3u0HmzypqZapsOWycR7_U/edit?usp=sharing)
 
@@ -19,6 +21,6 @@ aULA
 >[TERRAS E BENFEITORIAS.](https://github.com/ErisonBarros/Parc._Territorial/blob/master/Cap%C3%ADtulo%208%20-%20Terras%20e%20Benfeitorias.pdf)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NDMxNDAxMiwtOTMwNTQyMjIxLDExMj
-U5MjYwMDEsMTA1OTQ0NTcwNSwtNDY4MzU1NzQ3XX0=
+eyJoaXN0b3J5IjpbLTExMjEyNTcwMTksLTkzMDU0MjIyMSwxMT
+I1OTI2MDAxLDEwNTk0NDU3MDUsLTQ2ODM1NTc0N119
 -->
