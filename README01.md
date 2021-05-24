@@ -8,15 +8,17 @@ Material da Disciplina
 
 [Aula 04](https://drive.google.com/file/d/1ka9OSjBMIiHPyImpLnm3iN2s-NXece0P/view)
 
+aULA
+
 ## Leitura Complementar
 
-[CUSTO ESTIMADO PARA PROJETOS HIPOTÉTICOS DE URBANIZAÇÃO E INFRAESTRUTURA BÁSICA DE LOTEAMENTOS PARA AVALIAÇÃO DE GLEBAS URBANAS ATRAVÉS DO MÉTODO INVOLUTIVO](https://ibape-nacional.com.br/biblioteca/wp-content/uploads/2017/08/047.pdf)
+>[CUSTO ESTIMADO PARA PROJETOS HIPOTÉTICOS DE URBANIZAÇÃO E INFRAESTRUTURA BÁSICA DE LOTEAMENTOS PARA AVALIAÇÃO DE GLEBAS URBANAS ATRAVÉS DO MÉTODO INVOLUTIVO](https://ibape-nacional.com.br/biblioteca/wp-content/uploads/2017/08/047.pdf)
 
-[DIVISÃO E DEMARCAÇÃO](https://github.com/ErisonBarros/Parc._Territorial/blob/master/Cap%C3%ADtulo%20I%20-%20Divis%C3%A3o%20e%20Demarca%C3%A7%C3%A3o.pdf)
+>[DIVISÃO E DEMARCAÇÃO](https://github.com/ErisonBarros/Parc._Territorial/blob/master/Cap%C3%ADtulo%20I%20-%20Divis%C3%A3o%20e%20Demarca%C3%A7%C3%A3o.pdf)
 
-Terras e Benfei
+>[TERRAS E BENFEITORIAS.](https://github.com/ErisonBarros/Parc._Territorial/blob/master/Cap%C3%ADtulo%208%20-%20Terras%20e%20Benfeitorias.pdf)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NDk1MTA0OCwtOTMwNTQyMjIxLDExMj
+eyJoaXN0b3J5IjpbMTQ3NDMxNDAxMiwtOTMwNTQyMjIxLDExMj
 U5MjYwMDEsMTA1OTQ0NTcwNSwtNDY4MzU1NzQ3XX0=
 -->
