@@ -92,6 +92,41 @@ titularidade do imóvel a quem de direito.
 Importante destacar que a dimensão jurídica somente estará completa quando  
 finalizada a etapa registral, ou seja, quando disponibilizado ao morador o seu título de  
 posse ou propriedade devidamente registrado no cartório imobiliário.
+
+## 2.3. Tipos de irregularidade fundiária
+
+Como citado anteriormente, várias são as formas de irregularidade fundiária:  
+favelas, assentamentos autoproduzidos, loteamentos clandestinos ou irregulares. As  
+especificidades se referem às formas de aquisição da posse ou propriedade e aos  
+distintos processos de consolidação dos assentamentos. Cada caso exige um  
+tratamento específico.  
+Os habitantes irregulares, por sua vez, dividem-se em dois segmentos básicos:  
+um é constituído pelos núcleos e vilas irregulares e outro pelos loteamentos irregulares  
+e clandestinos. Para um melhor esclarecimento traçamos aqui a caracterização dos  
+dois segmentos irregulares:
+
+**a) núcleos e vilas irregulares:** são formados por moradores em área pública  
+ou privada com os problemas de irregularidade fundiária e com um grau variável de  
+deficiência de infra-estrutura urbana e de serviços. Os núcleos e vilas irregulares são  
+aqueles cujos habitantes não são proprietários da terra e não têm nenhum contrato  
+legal que lhes assegurem permanência no local. São, na sua maioria, formados através  
+das ocupações (invasões). Na terminologia adotada pelo Plano Diretor de  
+Desenvolvimento Urbano Ambiental do Município de Porto Alegre (PDDUA) são os  
+assentamentos autoproduzidos;
+
+**b) loteamentos:** é uma das formas de parcelamento do solo urbano, com  
+desmembramento da área em lotes e abertura de novas vias de circulação. Pela Lei  
+Federal n. 6.766/79, o loteador é obrigado a elaborar projeto de loteamento, aprová-lo  
+perante os órgãos municipais e depois registrá-lo no cartório imobiliário, além de ser  
+obrigado a realizar as obras de infra-estrutura. Somente após o cumprimento destas  
+etapas é possível iniciar a comercialização dos lotes. A Lei Federal n. 6.766/79 define  
+lote como terreno servido de infra-estrutura básica cujas dimensões atendam aos  
+índices urbanísticos definidos pelo plano diretor. Infra-estrutura básica, por sua vez,  
+são os equipamentos urbanos de escoamento das águas pluviais, redes de esgoto sanitário e abastecimento de água potável, energia elétrica pública e domiciliar e vias  
+de circulação.  Quando o loteamento não atende aos preceitos legais, torna-se irregular ou  clandestino:
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NTc4MzE0MV19
+eyJoaXN0b3J5IjpbLTEwMTI5MTAwOTFdfQ==
 -->
