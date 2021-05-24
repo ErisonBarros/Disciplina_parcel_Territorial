@@ -1,4 +1,5 @@
 > Written with [StackEdit](https://stackedit.io/).
+
 > # LOTEAMENTOS IRREGULARES E CLANDESTINOS:  
 ## 1. INTRODUÇÃO
 A questão habitacional exige um cuidado apurado da Administração Pública. A  
@@ -152,5 +153,6 @@ ideal de terras públicas ou privadas em núcleos urbanos
 informais.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNzg3ODUyOCwtMTM5MTYzMjM5N119
+eyJoaXN0b3J5IjpbMTEzMDQ2NTgzOCwyMDE3ODc4NTI4LC0xMz
+kxNjMyMzk3XX0=
 -->
