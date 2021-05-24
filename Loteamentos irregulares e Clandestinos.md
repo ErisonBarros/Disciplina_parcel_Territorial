@@ -69,7 +69,29 @@ Estatuto da Cidade, tais como o zoneamento urbano e ambiental, definição de pl
 de regularização fundiária, parcelamento compulsório, e, principalmente, a instituição  
 de zonas especiais de interesse social. Sem estes instrumentos não é possível obter a  
 regularização.
+Ultrapassada esta fase, com o projeto urbanístico discutido e aprovado primeiro  
+pela comunidade e depois pelo Município, inicia-se a etapa jurídica.
 
+## 2.2. Dimensão jurídica
+
+Estando a ocupação devidamente inserida na cidade formal em decorrência da  
+aprovação do estudo de viabilidade urbanística ou do projeto urbanístico e sua  
+decorrente implantação, necessário adequar o título de propriedade à realidade fática,  
+dando início à política de legalização das áreas e dos lotes ocupados, gerando  
+segurança jurídica aos moradores.  
+Neste aspecto, o Estatuto da Cidade também auxilia sobremaneira, trazendo  
+inúmeros instrumentos jurídicos e principalmente traçando as diretrizes básicas de  
+utilização ordenada do solo urbano, cujo centro é a preocupação constante com a  
+função social da propriedade.
+
+De acordo com o tipo de propriedade (pública ou privada) e a forma de ocupação  
+do solo (assentamento autoproduzido, invasão, loteamentos irregulares ou  
+clandestinos) é possível utilizar institutos como concessão especial para fins de  
+moradia, usucapião individual ou coletivo e ação de registro para transferir a  
+titularidade do imóvel a quem de direito.  
+Importante destacar que a dimensão jurídica somente estará completa quando  
+finalizada a etapa registral, ou seja, quando disponibilizado ao morador o seu título de  
+posse ou propriedade devidamente registrado no cartório imobiliário.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NTIxNjk3M119
+eyJoaXN0b3J5IjpbMTk0NTc4MzE0MV19
 -->
