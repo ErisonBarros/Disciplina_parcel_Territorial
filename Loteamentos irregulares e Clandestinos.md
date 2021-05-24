@@ -163,6 +163,10 @@ informais.
 
 <a href="https://ibb.co/yf0Pcd1"><img src="https://i.ibb.co/YR2QFPM/REUB.jpg" alt="REUB" border="0"></a><br /><a target='_blank' href='https://geojsonlint.com/'>json checker google</a><br />
 
+
+<a href="https://ibb.co/N6V6fzr"><img src="https://i.ibb.co/7JYJBFQ/MF-SO-PAULO-SP-23-07-2016-EMBARGADO-ESPECIAL-LOTEAMENTO-CLANDESTINO-CIDADES-rea-de-loteamento-clande.jpg" alt="MF-SO-PAULO-SP-23-07-2016-EMBARGADO-ESPECIAL-LOTEAMENTO-CLANDESTINO-CIDADES-rea-de-loteamento-clande" border="0"></a><br /><a target='_blank' href='https://geojsonlint.com/'>json checker google</a><br />
+
+
 Referencia Bibliográfica:
 
 LEILA, P. et al. Loteamentos irregulares e clandestinos: sua regularização no município de porto alegre. p. 1–10, [s.d.]. 
@@ -173,7 +177,7 @@ UNIVERSITÁRIA EM  REGULARIZAÇÃO FUNDIÁRIA
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDE3NDA5NjksMjExOTE2OTAxOSwxND
-A1Mjg3NjgsLTEzNDY1Njg1MTgsLTYzNzA4MDIzOCwyMDE3ODc4
-NTI4LC0xMzkxNjMyMzk3XX0=
+eyJoaXN0b3J5IjpbNzkwMjc5NjEyLDIxMTkxNjkwMTksMTQwNT
+I4NzY4LC0xMzQ2NTY4NTE4LC02MzcwODAyMzgsMjAxNzg3ODUy
+OCwtMTM5MTYzMjM5N119
 -->
