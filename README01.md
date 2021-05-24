@@ -20,10 +20,10 @@ Material da Disciplina
 
 >[TERRAS E BENFEITORIAS.](https://github.com/ErisonBarros/Parc._Territorial/blob/master/Cap%C3%ADtulo%208%20-%20Terras%20e%20Benfeitorias.pdf)
 
-MANUAL 
+> [MANUAL DE OBTEÇÃO DO INCRA](https://github.com/ErisonBarros/Parc._Territorial/blob/master/manual_de_obtencao_INCRA.pdf)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MTY0Nzg0OCwtMTEyMTI1NzAxOSwtOT
+eyJoaXN0b3J5IjpbMTUzNDk0ODcxMywtMTEyMTI1NzAxOSwtOT
 MwNTQyMjIxLDExMjU5MjYwMDEsMTA1OTQ0NTcwNSwtNDY4MzU1
 NzQ3XX0=
 -->
