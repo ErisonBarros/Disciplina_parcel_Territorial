@@ -1,7 +1,8 @@
 > Written with [StackEdit](https://stackedit.io/).
 
 > # LOTEAMENTOS IRREGULARES E CLANDESTINOS:  
->  Prof.
+>  Prof. Erison Barros
+>  
 ## 1. INTRODUÇÃO
 A questão habitacional exige um cuidado apurado da Administração Pública. A  
 moradia do cidadão é direito fundamental inerente à dignidade da pessoa humana, ou  
@@ -161,7 +162,11 @@ informais.
 
 
 <a href="https://ibb.co/yf0Pcd1"><img src="https://i.ibb.co/YR2QFPM/REUB.jpg" alt="REUB" border="0"></a><br /><a target='_blank' href='https://geojsonlint.com/'>json checker google</a><br />
+
+Referencia Bibliográfica:
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MTY5NjY5LC02MzcwODAyMzgsMjAxNz
-g3ODUyOCwtMTM5MTYzMjM5N119
+eyJoaXN0b3J5IjpbLTEzNDY1Njg1MTgsLTYzNzA4MDIzOCwyMD
+E3ODc4NTI4LC0xMzkxNjMyMzk3XX0=
 -->
