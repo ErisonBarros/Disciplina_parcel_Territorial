@@ -1,5 +1,4 @@
 
-
 # Parcelamento Territorial
 
 >  Prof. Erison Rosa de Oliveira Barros
@@ -60,7 +59,7 @@ a. Atividades no Google Classroom a partir de Google Formulário sobre os Itens 
 > Média= ( 1º E.E. + 2ºE.E.) /2
 
 ---
-* pAG
+* [PÁGINA 02](https://github.com/ErisonBarros/Parc._Territorial/blob/master/README01.md)
 
 
 # Tecnologias
@@ -80,8 +79,8 @@ a. Atividades no Google Classroom a partir de Google Formulário sobre os Itens 
 ![](https://img.shields.io/bower/v/editor.md.svg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjEwOTQyMjgsMTYwNTc2NjgzNiw5Nj
-k3Mzg2MDIsODE4MDU3MDE1LC0xOTU4OTk4NDEyLC0yMTA1NzAy
-MTcsLTExNTA3ODI0MjgsLTEzNjU5NjQ4MDAsLTgzODYyNzM0Ny
-wtOTIzMTA5NDg3XX0=
+eyJoaXN0b3J5IjpbNDI3NTQ1NTYxLDE2MDU3NjY4MzYsOTY5Nz
+M4NjAyLDgxODA1NzAxNSwtMTk1ODk5ODQxMiwtMjEwNTcwMjE3
+LC0xMTUwNzgyNDI4LC0xMzY1OTY0ODAwLC04Mzg2MjczNDcsLT
+kyMzEwOTQ4N119
 -->
