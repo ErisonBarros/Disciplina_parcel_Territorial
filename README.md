@@ -24,7 +24,7 @@ Aplicar os métodos de levantamento topográfico e geodésico na divisão de ter
 
 Discutir casos de estudo de perícias judiciais.
 
-# METODOLOGIA
+# Metodologia
 
 As atividades síncronas e assíncronas, desenvolvidas em ambiente virtual, remotamente. As síncronas, que totalizarão 33,3%, serão 12 atividades (2 horas/ aulas por semana) serão feitas remotamente, através de encontros virtuais previamente agendados, disponibilizados no siga, que serão feitos usando a ferramenta Google Meet. Nessas atividades síncronas o professor apresentará a parte teórica e esclarecerá sobre estudos e os trabalhos .
 
@@ -34,7 +34,7 @@ Aulas expositivas da parte teórica e detalhes práticos.
 
 Apresentação das técnicas de planejamento e implementação de um projeto de parcelamento.
 
-# FORMAS DE AVALIAÇÃO
+# Formas de Avaliação
 
 ## 1º E.E.:
 
